@@ -2,7 +2,7 @@
    class Shape {
       const PI = 3.142 ;
       function area(){
-         echo "This is are Function";
+         echo "This is area Function";
 
       }
       function __call($name,$arg){
